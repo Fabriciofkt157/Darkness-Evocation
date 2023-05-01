@@ -1,0 +1,2 @@
+/libs: pasta onde as bibliotecas do projeto serão armazenadas
+/assets pasta onde ficam as texturas, sons, modelos e etc 
