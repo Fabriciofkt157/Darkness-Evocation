@@ -15,7 +15,6 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
 // Carregue o material e o modelo
-const mtlLoader = new THREE.MTLLoader();
 mtlLoader.load('materials.mtl', function(materials) {
   materials.preload();
 
