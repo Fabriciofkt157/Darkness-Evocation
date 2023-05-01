@@ -19,7 +19,7 @@ const mtlLoader = new MTLLoader();
 mtlLoader.load('materials.mtl', function(materials) {
   materials.preload();
 
-  const objLoader = new THREE.OBJLoader();
+  const objLoader = new OBJLoader();
   objLoader.setMaterials(materials);
   objLoader.load('livro.obj', function(object) {
     scene.add(object);
