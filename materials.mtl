@@ -1,0 +1,8 @@
+# Made in Blockbench 4.7.2
+newmtl m_4385fded-81fa-7ed9-969d-342200b2c787
+map_Kd livro_cap1 
+newmtl m_b10cd512-5a92-cc15-261b-442b69a4f046
+map_Kd livro_borda 
+newmtl m_81dee8fd-9a76-264c-fc96-82be765b776c
+map_Kd livro_folha 
+newmtl none
